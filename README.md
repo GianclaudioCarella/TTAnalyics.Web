@@ -1,12 +1,6 @@
-# Fuse2
+# TTAnalytics Web
 
-Material Design Admin Template with Angular 5+ and Angular Material 2
-
-## The Community
-
-Share your ideas, discuss Fuse and help each other.
-
-[Click here](http://fusetheme.com/community) to see our Community page.
+Front End para o projeto TTAnalytics
 
 ## Development server
 
